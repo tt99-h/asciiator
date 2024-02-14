@@ -1,21 +1,21 @@
 Pour installer Asciiator suivez ces étapes
 
-##installer python
+Installer python
 ------
 pkg install python 2
 
-##cloner le dépôt
+Cloner le dépôt
 ------
 git clone https://github.com/tt99-h/asciiator/
 
-##accéder au dossier du programme
+Accéder au dossier du programme
 ------
-cd ASCIIATOR
+cd asciiator
 
-##installer les dépendances
+Installer les dépendances
 ------
 pip install -r requirements.txt
 
-##Exécuter le programme
+Exécuter le programme
 ------
 python asciiator.py
